@@ -1,0 +1,5 @@
+net\temp\elastic\clients\IndexingOperationsManager.class
+net\temp\resteasy\resource\RestEasyServices.class
+net\temp\resteasy\resource\UserResource.class
+net\temp\resteasy\service\UserService.class
+net\temp\elastic\clients\ElasticsearchClientConfig.class
